@@ -1,0 +1,10 @@
+{
+  "verbose": false,
+  "ignore": [
+    "client/",
+    "node_modules/",
+    ".sass-cache/",
+    "webpack/"
+  ],
+  "nodeArgs": ["--debug"]
+}
