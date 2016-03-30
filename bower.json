@@ -1,0 +1,21 @@
+{
+  "name": "wirestorm-website",
+  "version": "1.0.0",
+  "homepage": "https://stash.corbis.com/projects/BEN/repos/ben-producers-portal/browse",
+  "authors": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.1",
+    "font-awesome": "~4.2.0",
+    "momentjs": "~2.8.4",
+    "animate.css": "~3.3.0"
+  }
+}
