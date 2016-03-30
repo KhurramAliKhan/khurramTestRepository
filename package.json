@@ -10,7 +10,12 @@
     "db-migrate": "sequelize db:migrate",
     "start-dev": "node server/server-es6.js & node webpack/server.js",
     "start": "node server/server-es6.js",
-    "postinstall": "webpack --config ./webpack/config/production",
+    "postinstall": "webpack --config ./webpack/config/pr
+	
+	
+	
+	
+	oduction",
     "deploy": "git push heroku v4:master"
   },
   "author": "Victor Zamfir <victor@wirestorm.us>",
@@ -28,7 +33,10 @@
     "body-parser": "^1.15.0",
     "bootstrap-sass": "^3.3.6",
     "classnames": "^2.2.3",
-    "compression": "^1.6.1",
+    
+	
+	
+	"compression": "^1.6.1",
     "cookie-parser": "^1.4.1",
     "cors": "^2.7.1",
     "crypto": "0.0.3",
